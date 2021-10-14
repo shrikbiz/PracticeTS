@@ -1,3 +1,3 @@
 "use strict";
 var x = "shrikant";
-console.log("shrikbiz_", x);
+console.log("shrikbiz_" + x);
