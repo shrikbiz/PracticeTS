@@ -1,0 +1,11 @@
+{
+  "name": "practicets",
+  "version": "1.0.0",
+  "description": "Practicing typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shrikbiz",
+  "license": "ISC"
+}
